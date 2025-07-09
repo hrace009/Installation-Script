@@ -2,6 +2,8 @@
 
 This repository contains an installation script designed for setting up "Perfect World". The main purpose of this repository is to automate and simplify the installation process for users.
 
+NOTE: For Ubuntu 20.04
+
 ## Features
 
 - Easy and automated installation for the "Perfect World" environment.
